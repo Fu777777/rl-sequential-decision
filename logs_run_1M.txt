@@ -1,0 +1,6 @@
+LunarLander-v3 a2c seed1: 1943 回合, 最后20回合均值 -134.5, 用时 91s -> results/LunarLander-v3_a2c-1M_1.json
+LunarLander-v3 a2c seed0: 2328 回合, 最后20回合均值 -55.2, 用时 92s -> results/LunarLander-v3_a2c-1M_0.json
+LunarLander-v3 a2c seed2: 2804 回合, 最后20回合均值 -61.9, 用时 92s -> results/LunarLander-v3_a2c-1M_2.json
+LunarLander-v3 ppo seed1: 1453 回合, 最后20回合均值 -139.7, 用时 128s -> results/LunarLander-v3_ppo-1M_1.json
+LunarLander-v3 ppo seed0: 1493 回合, 最后20回合均值 57.1, 用时 128s -> results/LunarLander-v3_ppo-1M_0.json
+LunarLander-v3 ppo seed2: 2308 回合, 最后20回合均值 47.8, 用时 130s -> results/LunarLander-v3_ppo-1M_2.json
